@@ -44,3 +44,6 @@ npm start
 ### SmartContract
 - Solidity
 - HardHat
+
+### File Storage
+- Filebase/IPFS
