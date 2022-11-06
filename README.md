@@ -2,7 +2,7 @@
 Our project is a web3 version of wikipedia. This project uses the DAO design concept to share your knowledge more precisely. web3 version of wikipedia works with metamask to allow you to share your knowledge with others.
 The system de-centralizes the construction of text-based collective knowledge with the following concepts
 
-1. ErC20 token-based governance and voting approval process
+1. ERC20 token-based governance and voting approval process
 2. token incentives in submissions and voting
 3. use of voting snapshots employing IPFS.
 
