@@ -35,4 +35,15 @@ npm start
 <img width="1187" alt="スクリーンショット 2022-11-06 23 03 05" src="https://user-images.githubusercontent.com/56061642/200175354-cebd98bb-9f0e-4c92-8eb8-c49637aee758.png">
 
 
+## Technologies Used
+### Frontend
+- React
+- Ethers.js
+- MUI
 
+### SmartContract
+- Solidity
+- HardHat
+
+### File Storage
+- Filebase/IPFS
